@@ -1,0 +1,14 @@
+GitHub Desktop Test
+===================
+
+This file was created to test GitHub Desktop functionality.
+
+Date: 2026-01-21
+Status: Testing successful
+
+This demonstrates that:
+- GitHub Desktop can clone the repository
+- Changes can be committed through GitHub Desktop
+- Changes can be pushed to the remote repository
+
+Test completed successfully!
